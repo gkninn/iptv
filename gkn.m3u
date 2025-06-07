@@ -31,10 +31,10 @@ https://ip240.radyotelekom.com.tr/p/3375/hybrid/play.m3u8
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
 
 #EXTINF:-1 tvg-name="cine5" tvg-id="cine5.tr" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV (1-yayin.com.tr)
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
+http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 
 #EXTINF:-1 tvg-name="cine5" tvg-id="cine5.tr" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV (2-yayin.com.tr)
-https://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w619731517.m3u8
+http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w619731517.m3u8
 
 #EXTINF:-1 tvg-name="cine6tv" tvg-id="cine6tv.tr" tvg-logo="https://www.cine6tv.com.tr/uploads/logo/cine6-2.pdf-3000-x-3000-piksel-1.png" group-title="FILM",CINE 6 TV
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
@@ -46,7 +46,7 @@ https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 https://a8.radyotelekom.com.tr:3513/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="dizichannelhd" tvg-id="dizichannelhd.tr" tvg-logo="https://i.hizliresim.com/is3t2vp.jpg" group-title="FILM",DIZI CHANNEL HD 2 (720p yayin.com.tr)
-https://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
+http://cdn1-dizichannelhd.yayin.com.tr/dizichannelhd/dizichannelhd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="tiviturk" tvg-id="tiviturk.tr" tvg-logo="https://i.hizliresim.com/kfegx1u.jpeg" group-title="ULUSAL",TIVI TURK (1080p)
 https://stream.tiviturk.de/live/tiviturk.m3u8

@@ -198,6 +198,9 @@ https://cdn-onstv.yayin.com.tr/onstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="onstv" tvg-id="onstv.tr" tvg-logo="https://i.hizliresim.com/2oqu6gx.png" group-title="ULUSAL",ONS TV (artidijitalmedya.com)
 https://live.artidijitalmedya.com/artidijital_onstv/onstv/artidijital_onstv/chunks.m3u8
 
+#EXTINF:-1 tvg-name="yildizentv" tvg-id="yildizentv.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/yildiz-en-buyuk.png" group-title="ULUSAL",YILDIZ EN TV (yayın.com.tr)
+http://cdn-yildiz.yayin.com.tr/yildiz/yildiz/chunklist_w2041294003.m3u8
+
 #EXTINF:-1 tvg-name="fortunatv" tvg-id="fortunatv.tr" tvg-logo="https://i.hizliresim.com/a6bmsf8.png" group-title="ULUSAL",FORTUNA TV TR  (1-socialsmart.tv)
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 

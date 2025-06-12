@@ -9,7 +9,7 @@ http://cdn1-fix2.yayin.com.tr/fix2/fix2/playlist.m3u8
 #EXTINF:-1 tvg-name="Filmclub" tvg-id="Filmclub.tr" tvg-logo="https://i.hizliresim.com/336mgca.png" group-title="FILM",FILMCLUB (720p HD)
 http://cdn1-fix2.yayin.com.tr/fix2/fix2_720p/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Filmclub" tvg-id="Filmclub.tr" tvg-logo="https://i.hizliresim.com/8hb9du7.png" group-title="FILM",FILMCLUB WEB (PORT)
+#EXTINF:-1 tvg-name="Filmclub" tvg-id="Filmclub.tr" tvg-logo="https://i.hizliresim.com/hyryv4n.png" group-title="FILM",FILMCLUB WEB (PORT)
 https://ip240.radyotelekom.com.tr:3375/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="Filmclub" tvg-id="Filmclub.tr" tvg-logo="https://i.hizliresim.com/mfmn822.png" group-title="FILM",FILMCLUB WEB (PROXY)

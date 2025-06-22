@@ -36,10 +36,10 @@ http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/playlist.m3u8
 #EXTINF:-1 tvg-name="cine5" tvg-id="cine5.tr" tvg-logo="https://i.ibb.co/7vNbSyP/cine5.png" group-title="ULUSAL",CINE5 TV (2-yayin.com.tr)
 http://cdn-cine5tv.yayin.com.tr/cine5tv/cine5tv/chunklist_w619731517.m3u8
 
-#EXTINF:-1 tvg-name="cine6tv" tvg-id="cine6tv.tr" tvg-logo="https://www.cine6tv.com.tr/uploads/logo/cine6-2.pdf-3000-x-3000-piksel-1.png" group-title="FILM",CINE 6 TV
+#EXTINF:-1 tvg-name="cine6tv" tvg-id="cine6tv.tr" tvg-logo="https://i.hizliresim.com/skeuh24.png" group-title="FILM",CINE 6 TV
 https://canli.cine6tv.com.tr:3614/stream/play.m3u8
 
-#EXTINF:-1 tvg-name="cinemax6" tvg-id="cinemax6.tr" tvg-logo="https://www.cinemax6.com/uploads/logo/Xinemax-200200-4_1.png" group-title="FILM",CINE 6 MAX TV
+#EXTINF:-1 tvg-name="cinemax6" tvg-id="cinemax6.tr" tvg-logo="https://i.hizliresim.com/bctkpjj.png" group-title="FILM",CINE 6 MAX TV
 https://ip240.radyotelekom.com.tr:3118/stream/play.m3u8
 
 #EXTINF:-1 tvg-name="dizichannelhd" tvg-id="dizichannelhd.tr" tvg-logo="https://i.hizliresim.com/is3t2vp.jpg" group-title="FILM",DIZI CHANNEL HD 1 (720p yayin.com.tr)

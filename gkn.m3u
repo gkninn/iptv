@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:7
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/filmclub.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/dtv.xml"
 
 
 #EXTINF:-1 tvg-name="Filmclub" tvg-id="Filmclub.tr" tvg-logo="https://i.hizliresim.com/336mgca.png" group-title="FILM",FILMCLUB (AUTO HD)

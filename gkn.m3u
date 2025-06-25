@@ -1093,6 +1093,9 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="fashiontvfilm" tvg-language="Turkish" tvg-country="TR" tvg-id="fashiontvfilm" tvg-logo="https://play-lh.googleusercontent.com/dvkA_O2l5QM9I04JMbQ_1D5ZO1hfN6XIOULKeS8C5Wgb-LxoaQo1oFnKnG7HVtrn1g" group-title="MODA",FASHION FILM
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 
+#EXTINF:-1 tvg-name="BBCAmerica" tvg-id="BBCAmerica.us" tvg-logo="https://i.hizliresim.com/bmhzens.png" group-title="ENTERTAINMENT",BBC AMERICA
+https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
+
 
 
 #EXTINF:-1 tvg-name="turksatsaat" tvg-id="turksatsaat.tr" tvg-logo="https://www.turksat.com.tr/sites/default/files/2020-04/turksat_logotip_cmyk-01.png" group-title="TANITIM",TURKSAT SAAT

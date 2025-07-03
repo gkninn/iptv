@@ -66,6 +66,9 @@ https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1 tvg-name="cine1" tvg-id="cine1.tr" tvg-logo="https://i.ibb.co/zhxTBMR/cine1.png" group-title="ULUSAL",CINE 1 TV
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 
+#EXTINF:-1 tvg-name="bikanal" tvg-id="bikanal.tr" tvg-logo="https://i.hizliresim.com/njjhrkh.png" group-title="ULUSAL",B! KANAL TV
+https://live.artidijitalmedya.com/artidijital_bikanal/bikanal/playlist.m3u8
+
 #EXTINF:-1 tvg-name="tivi6" tvg-id="tivi6.tr" tvg-logo="https://tivi6.com.tr/wp-content/uploads/2025/02/logo_448x200-01.png" group-title="ULUSAL",TIVI 6
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
 

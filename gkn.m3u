@@ -113,6 +113,12 @@ https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8
 https://live.artidijitalmedya.com/artidijital_grt/grt/playlist.m3u8
 #EXTINF:-1,TRAKYA TÜRK TV
 https://live.artidijitalmedya.com/artidijital_trakyaturk/trakyaturk/playlist.m3u8
+#EXTINF:-1,KANAL V
+https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
+#EXTINF:-1,KTV KONYA
+https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
+#EXTINF:-1,LİFE TV
+https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1,AKSU TV
 https://live.artidijitalmedya.com/artidijital_aksutv/aksutv/playlist.m3u8
 #EXTINF:-1,ANADOLUNET TV
@@ -201,10 +207,6 @@ https://api-tv27.yayin.com.tr/kanalavrupa/index.m3u8
 https://baskentaudiovideo.xyz/LiveApp/streams/mUE22idl26lA1683879097431.m3u8
 #EXTINF:-1,KANAL S
 https://cdn-kanals.yayin.com.tr/kanals/kanals/playlist.m3u8
-#EXTINF:-1,KANAL V
-https://live.artidijitalmedya.com/artidijital_kanalv/kanalv/playlist.m3u8
-#EXTINF:-1,KANAL Z
-https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1,KANAL PLUS
 https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/playlist.m3u8
 #EXTINF:-1,KANAL URFA
@@ -215,10 +217,6 @@ https://live.artidijitalmedya.com/artidijital_kanalfirat/kanalfirat/playlist.m3u
 https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/playlist.m3u8
 #EXTINF:-1,KOCAELİ TV
 https://edge1.socialsmart.tv/kocaelitv/bant1/playlist.m3u8
-#EXTINF:-1,KTV KONYA
-https://cdn-ktvtv.yayin.com.tr/ktvtv/ktvtv/playlist.m3u8
-#EXTINF:-1,LİFE TV
-https://live.artidijitalmedya.com/artidijital_lifetv/lifetv/playlist.m3u8
 #EXTINF:-1,MAVi KARADENiZ TV
 https://live.artidijitalmedya.com/artidijital_mavikaradeniz/mavikaradeniz/playlist.m3u8
 #EXTINF:-1,MERCAN TV

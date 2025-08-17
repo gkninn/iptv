@@ -79,6 +79,8 @@ http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
 #EXTINF:-1,RIZE TURK (AUTO 720p)
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
+#EXTINF:-1,AS TV BURSA (AUTO 900p)
+https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
 #EXTINF:-1,ONS TV (AUTO 1080p)
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 #EXTINF:-1,FORTUNA TV (AUTO 720p)

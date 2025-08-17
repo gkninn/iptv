@@ -87,15 +87,31 @@ https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1,CHANNEL 6 TV
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u
+#EXTINF:-1,METRO TURK TV (HD)
+https://metroturk.castpin.com/hls/metroturk/1_2/index.m3u8
+#EXTINF:-1,TV5 TR
+https://ip252.ozelip.com:1936/protv5/protv5/playlist.m3u8
 
+#EXTINF:-1,GEM PIXEL (HD)
+https://glserver1.tamashaland.com/live/aBCH96886YznRbGOiqTnnQ__/stream_0.m3u8
+#EXTINF:-1,PLAY TV TR (HD)
+https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1,TR SPOR TV (AUTO 720p)
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
-#EXTINF:-1,ELMAS 67 TV (720p)
-https://clvd26.socialsmart.tv/elmastv/bant1/playlist.m3u8
+
 #EXTINF:-1,ELVIN 4K PRO (DEGISEN - 1080p)
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
 #EXTINF:-1,ELVIN 4K PRO (SIRIUS TV - 1080p)
 https://132544.edgevideo.ru/streams/132544_953282/1325441080/index.m3u8
+#EXTINF:-1,RETRO TV AZ (HD)
+https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
+#EXTINF:-1,DANCE HIT 80S
+https://dancehits80.denvs.ru:8080/playlist.m3u8
+#EXTINF:-1,MUZIK AZ (HD)
+https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8
+#EXTINF:-1,MUSIC AZ HIT (1080P)
+https://cdn4.yayin.com.tr/musicazhit/video.m3u8
+
 
 #EXTINF:-1,TRT 2 (AUTO 720p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
@@ -114,6 +130,8 @@ https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1,BBC AMERICA
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 
+#EXTINF:-1,ELMAS 67 TV (720p)
+https://clvd26.socialsmart.tv/elmastv/bant1/playlist.m3u8
 #EXTINF:-1,KANAL Z (AUTO 720p)
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
 #EXTINF:-1,BARTIN BTV (AUTO 720p)

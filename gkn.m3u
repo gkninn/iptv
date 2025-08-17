@@ -106,7 +106,7 @@ https://132544.edgevideo.ru/streams/132544_953282/1325441080/index.m3u8
 #EXTINF:-1,RETRO TV AZ (HD)
 https://a8.radyotelekom.com.tr:3706/hybrid/play.m3u8
 #EXTINF:-1,DANCE HIT 80S
-https://dancehits80.denvs.ru:8080/playlist.m3u8
+http://dancehits80.denvs.ru:8080/index.m3u8
 #EXTINF:-1,MUZIK AZ (HD)
 https://cdn-sinematv.yayin.com.tr/sinematv/sinematv/chunklist.m3u8
 #EXTINF:-1,MUSIC AZ HIT (1080P)

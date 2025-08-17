@@ -73,39 +73,39 @@ https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist
 https://i41.ozelip.com:3269/hybrid/play.m3u8
 #EXTINF:-1,DİZİ TV (AUTO 1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
-#EXTINF:-1,SUPERTURK TV
+#EXTINF:-1,SUPERTURK TV (AUTO 540p)
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8
-#EXTINF:-1,SUPERTURK MAX
+#EXTINF:-1,SUPERTURK MAX (AUTO 540p)
 http://75.119.144.48/SUPERTURK_MAX_HD/index.m3u8
-#EXTINF:-1,RIZE TURK HD
+#EXTINF:-1,RIZE TURK (AUTO 720p)
 https://yayin.rizeturk.com:3777/hybrid/play.m3u8
-#EXTINF:-1,ONS TV
+#EXTINF:-1,ONS TV (AUTO 1080p)
 https://cdn-onstv.yayin.com.tr/onstv/index.m3u8
-#EXTINF:-1,FORTUNA TV
+#EXTINF:-1,FORTUNA TV (AUTO 720p)
 https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1,CHANNEL 6 TV
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u
 
-#EXTINF:-1,TRT 2
+#EXTINF:-1,TRT 2 (AUTO 720p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT TÜRK
+#EXTINF:-1,TRT TÜRK (AUTO 720p)
 https://tv-trtturk.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT AVAZ
+#EXTINF:-1,TRT AVAZ (AUTO 720p)
 https://tv-trtavaz.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,TRT BELGESEL
+#EXTINF:-1,TRT BELGESEL (AUTO 720p)
 https://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1,NATIONAL GEOGRAPHIC
+#EXTINF:-1,NATIONAL GEOGRAPHIC (AUTO 1080p)
 https://saran-live.ercdn.net/natgeohd/index.m3u8
-#EXTINF:-1,NATIONAL GEOGRAPHIC WILD
+#EXTINF:-1,NAT GEO WILD (AUTO 1080p)
 https://saran-live.ercdn.net/natgeowild/index.m3u8
 
 #EXTINF:-1,BBC AMERICA
 https://dvrfl04.tulix.tv/teleup-bbca/index.m3u8
 
-#EXTINF:-1,KANAL Z
+#EXTINF:-1,KANAL Z (AUTO 720p)
 https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/playlist.m3u8
-#EXTINF:-1,BARTIN BTV (yayin.com.tr)
+#EXTINF:-1,BARTIN BTV (AUTO 720p)
 http://cdn-bartintv.yayin.com.tr/BARTINTV/BARTINTV/chunklist_w896416726.m3u8
 #EXTINF:-1,ETV MANiSA
 https://edge1.socialsmart.tv/manisaetv/bant1/playlist.m3u8

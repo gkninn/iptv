@@ -1,27 +1,27 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 15.06.2025 | Donate Lightning SATS: Digiseytan@WALLETOFSATOSHi.COM 
-#EXTINF:-1,TRT 1
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 15.06.2025
+#EXTINF:-1,TRT 1 (AUTO 1080p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,ATV
+#EXTINF:-1,ATV (AUTO 1080p)
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
-#EXTINF:-1,STAR TV
+#EXTINF:-1,STAR TV (AUTO 720p)
 https://dogus-live.daioncdn.net/startv/playlist.m3u8
-#EXTINF:-1,SHOW TV
+#EXTINF:-1,SHOW TV (AUTO 1080p)
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
-#EXTINF:-1,KANAL D
+#EXTINF:-1,KANAL D (AUTO 1080p)
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
-#EXTINF:-1,KANAL 7
+#EXTINF:-1,KANAL 7 (AUTO 1080p)
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
-#EXTINF:-1,NOW TV
+#EXTINF:-1,NOW TV (AUTO 720p)
 https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8
-#EXTINF:-1,360 TV
+#EXTINF:-1,360 TV (AUTO 1080p)
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
-#EXTINF:-1,TV4
+#EXTINF:-1,TV4 (AUTO 1080p)
 https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
-#EXTINF:-1,TEVE 2
+#EXTINF:-1,TEVE 2 (AUTO 1080p)
 https://demiroren-live.daioncdn.net/teve2/teve2.m3u8
-#EXTINF:-1,TV 8
+#EXTINF:-1,TV 8 (AUTO 1080p)
 https://tv8-live.daioncdn.net/tv8/tv8.m3u8
-#EXTINF:-1,TV 8.5
+#EXTINF:-1,TV 8.5 (AUTO 1080p)
 https://tv8-live.daioncdn.net/tv8bucuk/tv8bucuk_1080p.m3u8
 #EXTINF:-1,A2
 https://trkvz.daioncdn.net/a2tv/a2tv_1080p.m3u8?e=1754714318&st=l3vvS6U_qUBqq2KSH8nUpA&sid=7n7rckskpumq&app=59363a60-be96-4f73-9eff-355d0ff2c758&ce=3
@@ -31,47 +31,47 @@ http://185.234.111.229:8000/play/a018
 https://canlitvulusal.xyz/live/eurostar/index.m3u8
 #EXTINF:-1,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
-#EXTINF:-1,KANAL D DRAMA
+#EXTINF:-1,KANAL D DRAMA (AUTO 1080p)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8
 #EXTINF:-1,SHOW TÜRK
 https://canlitvulusal.xyz/live/showturk/index.m3u8
 #EXTINF:-1,SHOW MAX
 https://canlitvulusal.xyz/live/showmax/index.m3u8
-#EXTINF:-1,KANAL 7 AVRUPA
+#EXTINF:-1,KANAL 7 AVRUPA (AUTO 720p)
 https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8
-#EXTINF:-1,TV 8 INT
+#EXTINF:-1,TV 8 INT (AUTO 1080p)
 http://185.234.111.229:8000/play/a01x
-#EXTINF:-1,TGRT EU SD
+#EXTINF:-1,TGRT EU (AUTO SD 576p)
 https://tgrt-live.ercdn.net/tgrteu/tgrteu.m3u8
-#EXTINF:-1,TGRT EU HD
+#EXTINF:-1,TURKSAT (AUTO 1080p)
 http://185.234.111.229:8000/play/a01e
-#EXTINF:-1,TGRT BELGESEL SD
+#EXTINF:-1,TGRT BELGESEL (AUTO SD 576p)
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
-#EXTINF:-1,TYT TÜRK
+#EXTINF:-1,TYT TÜRK (AUTO 1080p)
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
-#EXTINF:-1,BEYAZ TV
+#EXTINF:-1,BEYAZ TV (AUTO 1080p)
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
-#EXTINF:-1,TLC
+#EXTINF:-1,TLC (AUTO 720p)
 https://dogus-live.daioncdn.net/tlc/tlc.m3u8
-#EXTINF:-1,DMAX TV
+#EXTINF:-1,DMAX (AUTO 720p)
 https://dogus-live.daioncdn.net/dmax/dmax.m3u8
-#EXTINF:-1,BİR TV
+#EXTINF:-1,BİR TV (AUTO 720p)
 https://edge1.socialsmart.tv/birtv/bant1/playlist.m3u8
-#EXTINF:-1,TiVi 6
+#EXTINF:-1,TiVi 6 (AUTO 720p)
 https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
-#EXTINF:-1,CİNE 1
+#EXTINF:-1,CİNE 1 (AUTO 720p)
 https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
 #EXTINF:-1,CİNE 5
 https://cdn-cine5.yayin.com.tr/cine5/cine5/playlist.m3u8
-#EXTINF:-1,TiViTURK
+#EXTINF:-1,TiViTURK (AUTO 1080p)
 https://stream.tiviturk.de/live/tiviturk.m3u8
-#EXTINF:-1,SDM SİNEMA
+#EXTINF:-1,SDM SİNEMA (AUTO 576p)
 https://host.onlineradyotv.net:8081/sdmtv/index.m3u8
-#EXTINF:-1,DENiZ POSTASI TV
+#EXTINF:-1,DENiZ POSTASI TV (AUTO 720p)
 https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/playlist.m3u8
-#EXTINF:-1,İSVİÇRE TV
+#EXTINF:-1,İSVİÇRE TV (AUTO 720p)
 https://i41.ozelip.com:3269/hybrid/play.m3u8
-#EXTINF:-1,DİZİ TV
+#EXTINF:-1,DİZİ TV (AUTO 1080p)
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/dizi-tv/playlist/0.m3u8
 #EXTINF:-1,SUPERTURK TV
 http://75.119.144.48/SUPERTURK_TV_STREAM/index.m3u8

@@ -88,6 +88,15 @@ https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 #EXTINF:-1,CHANNEL 6 TV
 https://cdn4.yayin.com.tr/channel6tv/tracks-v1a1/mono.m3u
 
+#EXTINF:-1,TR SPOR TV (AUTO 720p)
+https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
+#EXTINF:-1,ELMAS 67 TV (720p)
+https://clvd26.socialsmart.tv/elmastv/bant1/playlist.m3u8
+#EXTINF:-1,ELVIN 4K PRO (DEGISEN - 1080p)
+https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8
+#EXTINF:-1,ELVIN 4K PRO (SIRIUS TV - 1080p)
+https://132544.edgevideo.ru/streams/132544_953282/1325441080/index.m3u8
+
 #EXTINF:-1,TRT 2 (AUTO 720p)
 https://tv-trt2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT TÜRK (AUTO 720p)

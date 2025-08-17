@@ -515,20 +515,7 @@ https://trn03.tulix.tv/gt-tvnet/index.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 Yedek="https://trn03.tulix.tv/gt-trt4k/index.m3u8" Yedek2="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/4001/index.m3u8" Yedek3="http://108.181.123.99:8070/live/test_acct/ohbo1veifa4AhD/1810.ts" Yedek4="http://176.65.146.123:6001/play/a027/index.m3u8" tvg-id="TRT 4K.tr" tvg-logo="https://icdn.ensonhaber.com/crop/1060x795/resimler/diger/kok/2021/06/16/IMG20210616050051.jpg" group-title="Sinema",TRT 4K
 http://176.65.146.123:6001/play/a027/index.m3u8
-#EXTINF:-1 tvg-id="tabii TV.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Tabii_logo.svg/1024px-Tabii_logo.svg.png" group-title="Sinema",TABII TV
-https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_1080p.m3u8?sid=IUlyczhCBES7nvvwJSIycw&bvr_flags=10&bvr_ch=tabiitv&bvr_bw=2800000
-#EXTINF:-1 Yedek="http://65.21.85.175:8000/play/a01v/index.m3u8?token=livetv" Yedek2="http://iptvtree.net:8080/live/test_acct/ohbo1veifa4AhD/1789.ts" Yedek3="http://mehmetaslan.serv00.net/Rokr/Live?ID=2761385166b4a8fac1b549" tvg-id="SİNEMA TV 1001 HD.tr" tvg-logo="https://i.pinimg.com/280x280_RS/08/ad/75/08ad75c00ad9f441558601b75260adb4.jpg" group-title="Sinema",SINEMA 1001
-https://tv1.arectv30.sbs/live/sinema1001.m3u8
-#EXTINF:-1 Yedek2="https://tv.arectv13.sbs/live/sinemaaksiyon2.m3u8" tvg-id="SİNEMA AKSİYON 2 HD.tr" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sinema-aksiyon-tr.png" group-title="Sinema",SINEMA AKSIYON 2
-https://tv1.arectv30.sbs/live/sinemaaksiyon2.m3u8
-#EXTINF:-1 Yedek="http://65.21.85.175:8000/play/a01z/index.m3u8?token=livetv" Yedek2="https://tv.arectv13.sbs/live/sinemakomedi.m3u8" Yedek3="http://31.222.206.98/8851/tracks-v1a1/mono.ts.m3u8?token=test" tvg-id="SİNEMA KOMEDİ HD.tr" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/sinema-komed.png" group-title="Sinema",SINEMA KOMEDI
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6744/index.m3u8" Yedek2="http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6744/index.m3u8" Yedek3="https://tv.prectv5.sbs/live/bspremier1.m3u8" tvg-id="beIN Box Office 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722" group-title="Sinema",BEIN BOX OFFICE 1
-https://tv.prectv5.sbs/live/bspremier1.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6745/index.m3u8" Yedek2="http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6745/index.m3u8" Yedek3="https://tv.prectv5.sbs/live/bsstars.m3u8" tvg-id="beIN Box Office2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722" group-title="Sinema",BEIN BOX OFFICE 2
-https://tv.prectv5.sbs/live/bsstars.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6743/index.m3u8" Yedek2="http://103c2d6f.rossteleccom.net/iptv/KB5PNQ23HKZLMX/6743/index.m3u8" Yedek3="https://tv.prectv5.sbs/live/box3.m3u8" tvg-id="beIN Box Office3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/BeIN_Movies_standard_logo.png?20161102065722" group-title="Sinema",BEIN BOX OFFICE 3
-https://tv.prectv5.sbs/live/box3.m3u8
+
 #EXTINF:-1 Yedek="http://tv-trtcocuk.medya.trt.com.tr/master_720.m3u8" Yedek2="http://185.234.111.229:8000/play/a00b" Yedek3="https://trn03.tulix.tv/gt-trtcocuk/index.m3u8" Yedek4="https://helga.iptv2022.com/sh/trt_cocuk/tracks-v4a1/mono.ts.m3u8?filter.tracks=a1v1v2v3v4" tvg-id="TRT ÇOCUK HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/TRT_çocuk_logo.png" group-title="Çocuk",TRT COCUK
 https://trn03.tulix.tv/gt-trtcocuk/index.m3u8
 #EXTINF:-1 Yedek="http://stream.tvcdn.net/eglence/a2.m3u8" Yedek2="https://x.canlitvapp.com/a2/index.m3u8" Yedek3="https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8" Yedek4="http://89.187.191.41/A2-HD-TR/video.m3u8" Yedek5="https://trkvz-live.daioncdn.net/a2tv/a2tv.m3u8" tvg-id="A2 HD.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/e/e8/A2_logosu.jpg" group-title="Belgesel",A2
@@ -549,14 +536,3 @@ https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk_1080p.m3u8
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 Yedek="https://tgn.bozztv.com/dvrfl05/gin-trtspor2/playlist.m3u8" Yedek2="https://217.30.11.74/e/350.m3u8" Yedek3="http://176.65.146.123:6001/play/a02g/index.m3u8" tvg-id="TRT SPOR YILDIZ.tr" tvg-logo="https://tv.kolaytv.org/trt-spor-yildiz.png" group-title="Spor",TRT SPOR YILDIZ
 http://176.65.146.123:6001/play/a02g/index.m3u8
-#EXTINF:-1 Yedek="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6825/index.m3u8" Yedek2="https://v.arectv13.sbs/static/ss1.m3u8" Yedek3="https://v.arectv11.sbs/static/ss1.m3u8" Yedek4="https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/607/index.m3u8" Yedek5="http://mehmetaslan.serv00.net/Rokr/Live?ID=2123273598b4a8fac1b549" Yedek6="https://live.arectv11.sbs/static/ss1.m3u8" Yedek7="http://31.222.206.98/8854/tracks-v1a1/mono.ts.m3u8?token=test" Yedek8="https://217.30.11.74/e/3030.m3u8" tvg-id="S SPORT.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor",SSPORT
-https://217.30.11.74/e/3030.m3u8
-#EXTINF:-1 Logo="" Yedek="https://metvmetvmetv7.serv00.net/vavame.php?id=1234604880&e=.m3u8" Yedek2="https://217.30.11.74/e/3031.m3u8" Yedek3="https://0dx50qwkvlp4mh4rff5lrkmx3rzdgsbj.zortstream.shop/608/index.m3u8" Yedek4="https://v.arectv13.sbs/static/ss2.m3u8" Yedek5="https://v.arectv11.sbs/static/ss2.m3u8" tvg-id="S.Sport2.tr" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/07/S_Sport_logo.png" group-title="Spor",SSPORT 2
-https://217.30.11.74/e/3031.m3u8
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-http://raalbatros.serv00.net/Freeshot.php?ID=bein-sports-1-turkey/158
-#EXTINF:-1 tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1
-http://95.174.71.114:80/TR-BEINSPORT1/index.m3u8
-#EXTINF:-1 Yedek1="https://217.30.11.74/e/6570.m3u8" Yedek2="http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8" tvg-id="beIN SPORTS 1.tr" tvg-logo="https://i.ibb.co/N31fVBp/bein-sports-1.png" group-title="Spor",BEINSPORTS 1 (Mac zamanı)
-http://rhsbjv7k.tvclub.xyz/iptv/8PLFKPYLLMZ9GW/6781/index.m3u8
-

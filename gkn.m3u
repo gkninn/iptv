@@ -49,6 +49,8 @@ http://185.234.111.229:8000/play/a01e
 https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 #EXTINF:-1,TYT TÜRK (AUTO 1080p)
 https://cdn-tytturk.yayin.com.tr/tytturk/index.m3u8
+#EXTINF:-1,FX TV (AUTO 1080p)
+https://saran-live.ercdn.net/fx/index.m3u8
 #EXTINF:-1,BEYAZ TV (AUTO 1080p)
 https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8
 #EXTINF:-1,TLC (AUTO 720p)

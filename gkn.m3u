@@ -28,7 +28,7 @@ https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv_1080p.m3u8
 #EXTINF:-1,ATV AVRUPA
 http://185.234.111.229:8000/play/a018
 #EXTINF:-1,EURO STAR TV
-https://canlitvulusal.xyz/live/eurostar/index.m3u8
+https://mn-nl.mncdn.com/dogusdyg_eurostar/live_1080p3000000kbps/index.m3u8?st=-LGajx-BC7xgpNyPYCDkow&e=1756243178
 #EXTINF:-1,EURO D
 https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8
 #EXTINF:-1,KANAL D DRAMA (AUTO 1080p)
@@ -117,7 +117,7 @@ https://cdn4.yayin.com.tr/musicazhit/video.m3u8
 https://familyhls.avatv.live/hls/stream.m3u8
 #EXTINF:-1,AVA SERIES (HD)
 https://avaserieshls.wns.live/hls/stream.m3u8
-REDBULL TV (HD)
+#EXTINF:-1,REDBULL TV (HD)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 
 #EXTINF:-1,TRT 2 (AUTO 720p)
@@ -183,8 +183,6 @@ https://live.artidijitalmedya.com/artidijital_dimtv/dimtv/playlist.m3u8
 https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1,EDESSA TV
 https://ip252.ozelip.com:1936/edessatv/edessatv/play.m3u8
-#EXTINF:-1,EDiRNE TV
-https://yayin.edirnetv.com:8088/hls/etvcanliyayin.m3u8
 #EXTINF:-1,ERCİYES TV
 https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/playlist.m3u8
 #EXTINF:-1,ERCiS TV
@@ -496,7 +494,7 @@ https://tv-trtworld.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,TRT ARABi
 https://tv-trtarabi.medya.trt.com.tr/master.m3u8
-#EXTINF:-1,SAGLIK CHANEL
+#EXTINF:-1,SAGLIK CHANNEL
 https://live.euromediacenter.com/saglikchannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1,5 OCAK TV
 https://592f1881b3d5f.streamlock.net/5ocaktv/5ocaktv/chunklist_w1939638168.m3u8

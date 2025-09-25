@@ -103,8 +103,8 @@ https://ip100.radyotelekomtv.com:3784/stream/play.m3u8
 #EXTINF:-1,TR SPOR TV (AUTO 720p)
 https://cdn-gzcspor.yayin.com.tr/gzcspor/gzcspor/playlist.m3u8
 
-#EXTINF:-1,KANAL ARTI (1080p)
-https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/kanalarti.m3u8
+#EXTINF:-1 Yedek="https://vod02.cdn.web.tv/wk/na/wknajafhrjm_,240,.mp4.urlset/playlist-v1-a1.m3u8" Yedek2="https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/kanalarti.m3u8" ,KANAL ARTI (1080p)
+http://208.79.153.42/akamaissh101/ssh101/kanalarti/playlist.m3u8
 
 #EXTINF:-1,ELVIN 4K PRO (SIRIUS TV - 1080p)
 https://raw.githubusercontent.com/Elvin4K/restream/refs/heads/pro4k/1siriustv.m3u8

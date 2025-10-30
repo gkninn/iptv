@@ -2,7 +2,7 @@
 #EXTINF:-1,ARTI TV (AUTO 1080p)
 https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/artitv.m3u8
 #EXTINF:-1,ARTI TV (576p)
-http://208.79.153.42/akamaissh101/ssh101/kanalarti/playlist.m3u8
+https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/kanalarti.m3u8
 #EXTINF:-1,TRT 1 (AUTO 1080p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV (AUTO 1080p)

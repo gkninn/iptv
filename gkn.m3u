@@ -3,6 +3,8 @@
 https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/artitv.m3u8
 #EXTINF:-1,ARTI TV (TEST)
 https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/artitvtest.m3u8
+#EXTINF:-1,KANAL ARTI (TEST-kanaletv.web.tv)
+https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/kanalarti.m3u8
 #EXTINF:-1,TRT 1 (AUTO 1080p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,ATV (AUTO 1080p)

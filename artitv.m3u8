@@ -1,5 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:5
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-START:TIME-OFFSET=0,PRECISE=YES
 http://cdn4.yayin.com.tr/arti/video.m3u8
 
 

@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/turkey3.xml" | SON GÜNCELLENME 15.06.2025
 #EXTINF:-1,ARTI TV (YAYINCOMTR)
-https://cdn4.yayin.com.tr/arti/tracks-v1a1/mono.m3u8
+http://cdn4.yayin.com.tr/arti/video.m3u8
 #EXTINF:-1,ARTI TV (GITHUB)
 https://raw.githubusercontent.com/gkninn/iptv/refs/heads/main/artitv.m3u8
 #EXTINF:-1,KANAL ARTI (TEST-kanaletv.web.tv)
